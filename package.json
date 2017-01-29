@@ -1,0 +1,15 @@
+{
+  "name": "material-oceanic-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A slightly lighter material theme based off the terminal colour scheme by carloscuesta github.com/carloscuesta/materialshell",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/samwalls/material-oceanic-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

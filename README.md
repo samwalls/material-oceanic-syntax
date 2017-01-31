@@ -8,8 +8,6 @@ If anyone has any suggestions (bear in mind that colours of specific languages a
 
 #### Go
 
-![Go struct type declarations](http://i.imgur.com/ICqPKhK.png)
-
 ![Go test function](http://i.imgur.com/XhbyTXp.png)
 
 #### Make

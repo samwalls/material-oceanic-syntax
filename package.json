@@ -1,7 +1,7 @@
 {
   "name": "material-oceanic-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A slightly lighter material theme for atom based off the terminal colour scheme by carloscuesta https://github.com/carloscuesta/materialshell",
   "keywords": [
     "syntax",
